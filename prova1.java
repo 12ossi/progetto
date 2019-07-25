@@ -3,7 +3,7 @@ import java.awt.Container;
 import javax.swing.JFrame; //Un oggetto di tipo JFrame costituisce infatti lo scheletro di una finestra grafica sulla quale dovranno essere opportunamente ospitate altre componenti grafiche(é invisibile)
 import javax.swing.JLabel; //Un area di visualizzazione per una breve stringa di testo(Etichetta) o immagine ,essa non reagisce agli eveti di input
 
-public class HelloWorldSwing {
+public class Prova1 {
 
 	public static void main(String[] args) {
 		JFrame frame = new JFrame("HelloWorldSwingGUI");// costruttore che imposta il titolo della finestra
