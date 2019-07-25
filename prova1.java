@@ -9,7 +9,7 @@ public class Prova1 {
 		JFrame frame = new JFrame("HelloWorldSwingGUI");// costruttore che imposta il titolo della finestra
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);// il programma termina quando la finestra viene chiusa
 
-		JLabel label = new JLabel("Hello World!!!");//crea una componente JLabel
+		JLabel label = new JLabel("Hello World!!!ooooooo");//crea una componente JLabel
 		Container contPane = frame.getContentPane();// crea un oggetto Container che é in grado di contenere altre componenti AWT, il metodo getContentPnae restituisce il pannello del JFrame, per potervici mettere i controlli dell'interfaccia
 		contPane.add(label);// aggiunge l'etichetta al content pane(cioè il pannello) del JFrame
 
